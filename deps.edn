@@ -1,0 +1,7 @@
+{:deps
+ {org.clojure/clojure {:mvn/version "1.10.1"}
+  org.clojure/tools.deps.alpha
+  {:git/url "https://github.com/clojure/tools.deps.alpha.git"
+   :sha "f6c080bd0049211021ea59e516d1785b08302515"}
+  compliment {:mvn/version "0.3.9"}
+  cnuernber/libpython-clj {:mvn/version "0.14"}}}
